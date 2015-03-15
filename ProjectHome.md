@@ -1,0 +1,1 @@
+Software Studies tools are designed for the quantitative analysis and visualization of image and video data in the humanities context. For more information on how we use these tools in our Cultural Analytics research, see http://www.softwarestudies.com
